@@ -1,6 +1,0 @@
-G:\Visual Studio\Visual Studio 2010\WindowsApplication1\WindowsApplication1\bin\x86\Debug\Windows Firewall Manager.exe.config
-G:\Visual Studio\Visual Studio 2010\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Interop.NATUPNPLib.dll
-G:\Visual Studio\Visual Studio 2010\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Interop.NETCONLib.dll
-G:\Visual Studio\Visual Studio 2010\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Interop.NetFwTypeLib.dll
-G:\Visual Studio\Visual Studio 2010\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Windows Firewall Manager.vbproj.ResolveComReference.cache
-G:\Visual Studio\Visual Studio 2010\WindowsApplication1\WindowsApplication1\bin\x86\Debug\WindowsFirewallManager.exe.config
