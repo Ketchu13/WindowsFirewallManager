@@ -8,11 +8,11 @@ Imports System.Runtime.InteropServices
 
 ' Passez en revue les valeurs des attributs de l'assembly
 
-<Assembly: AssemblyTitle("WindowsApplication1")> 
+<Assembly: AssemblyTitle("WindowsFirewallManager")> 
 <Assembly: AssemblyDescription("")> 
 <Assembly: AssemblyCompany("")> 
-<Assembly: AssemblyProduct("WindowsApplication1")> 
-<Assembly: AssemblyCopyright("Copyright ©  2015")> 
+<Assembly: AssemblyProduct("WindowsFirewallManager")> 
+<Assembly: AssemblyCopyright("Copyright ©  2015 KFP")> 
 <Assembly: AssemblyTrademark("")> 
 
 <Assembly: ComVisible(False)>

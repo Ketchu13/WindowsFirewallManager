@@ -365,10 +365,7 @@ Public Class Form1
 
         If IsApplicationEnabled(applicationPath) Then
             Try
-                ' GetCurrentProfile().AuthorizedApplications.Remove(applicationPath)
                 GetCurrentProfile().AuthorizedApplications.Item(applicationPath).Enabled = False
-                '  GetCurrentProfile().
-                'Remove(applicationPath)
                 DisplayFirewallProfile(GetFirewallManager())
             Catch generatedExceptionName As Exception
                 DisplayFirewallProfile(GetFirewallManager())
@@ -381,10 +378,6 @@ Public Class Form1
 
     Private Sub ListView1_MouseDoubleClick(sender As Object, e As MouseEventArgs) Handles ListView1.MouseDoubleClick
         RemoveApplication(ListView1.SelectedItems(0).Text, ListView1.SelectedItems(0).SubItems(3).Text)
-    End Sub
-
-    Private Sub ListView1_SelectedIndexChanged(sender As Object, e As EventArgs) Handles ListView1.SelectedIndexChanged
-
     End Sub
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
